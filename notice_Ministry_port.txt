@@ -1,0 +1,341 @@
+﻿Aviso do Ministério da Educação sobre a emissão do plano de ação de inovação em inteligência artificial para instituições de ensino superior
+
+Aos departamentos de educação (comissões) de todas as províncias, regiões autônomas e municípios diretamente sob o Governo Central, o Departamento de Educação
+do Corpo de Produção e Construção de Xinjiang, os departamentos de educação (agências) de todas as agências (unidades) relevantes e instituições afiliadas de
+educação: Este Plano de Ação de Inteligência Artificial para Instituições de Ensino Superior foi escrito especificamente para implementar o Aviso do Conselho de Estado sobre o
+A emissão do Plano de Desenvolvimento de Inteligência Artificial da Nova Geração (Guo Fa [2017] nº 35) incentiva as instituições de ensino superior a se concentrarem no
+vanguarda da ciência e tecnologia global, aprimora continuamente a capacidade de promover inovação científica e tecnológica, cooperação internacional e
+trocar e fornecer treinamento no campo da IA ​​e fornecer suporte estratégico para desenvolver a próxima geração de inteligência artificial. Este plano de ação é
+impresso e distribuído para você. Por favor, implemente este plano de ação com consciência, levando em consideração sua situação real.
+
+Ministro da Educação
+2 de abril de 2018
+
+Plano de Ação para Inovação em Inteligência Artificial para Instituições de Ensino Superior O rápido desenvolvimento da inteligência artificial (IA) mudará profundamente
+o mundo e como vivemos nele. Este plano de ação foi elaborado com a finalidade de implementar o Aviso do Conselho de Estado sobre a Emissão da Nova Geração
+Plano de Desenvolvimento de Inteligência Artificial (Guo Fa [2017] nº 35) e o espírito da Conferência Nacional de Trabalho de 2017 sobre Ciência e Tecnologia no Ensino Superior,
+incentivar as universidades a se concentrarem na vanguarda da ciência e tecnologia globais, fortalecer a pesquisa fundamental, conduzir
+pesquisa prospectiva e faça avanços significativos, pioneiros e originais e aprimore ainda mais a capacidade das universidades de inovar e treinar pessoas talentosas
+no campo da IA ​​e atender às necessidades da China.
+
+I. Requisitos Gerais
+
+1. Situação básica
+
+À medida que tecnologias como a Internet, big data, computação em nuvem e a Internet das coisas continuam a se desenvolver, a inteligência artificial levou à ciência
+e avanços tecnológicos capazes de causar uma reação em cadeia e várias tecnologias disruptivas. Está acelerando a incubação de novos
+impulsionadores do desenvolvimento econômico, moldando um novo tipo de sistema industrial e levando a uma nova revolução científica e tecnológica e transformação industrial.
+Atualmente, a China está na fase decisiva de formar uma sociedade abastada de maneira abrangente. O desejo das pessoas por uma vida boa e os requisitos de alta qualidade
+O desenvolvimento econômico criou um futuro brilhante para o desenvolvimento e aplicação da IA ​​na China.
+
+A inteligência artificial tem características que combinam características tanto técnicas como sociais. É um novo motor do desenvolvimento econômico e um
+acelerador do desenvolvimento social. Os recursos da inteligência artificial, incluindo análises visuais orientadas por big data, entendimento da linguagem natural e
+o reconhecimento de fala está aumentando rapidamente. Diálogo e recomendações de inteligência de negócios, veículos autônomos, wearables inteligentes, tradução de idiomas,
+navegação automática e novas previsões econômicas estão rapidamente se movendo para um estágio funcional. A tecnologia de IA atualmente está permeando e reconstruindo as conexões
+entre as atividades econômicas de produção, distribuição, troca e consumo, criando novas (智能化) demandas, produtos, tecnologias,
+maneiras de fazer negócios do macro ao nível micro e mudar a maneira como vivemos até nossa estrutura social. Isso criou um aumento no total
+produtividade da nossa sociedade. Ao mesmo tempo, aplicativos inovadores de inteligência artificial na educação estão se acelerando. Usando tecnologia inteligente para inovar
+novas maneiras de fornecer treinamento, revolucionar métodos de ensino, melhorar a administração acadêmica e criar um ambiente de trabalho inteligente, em rede, personalizado e ao longo da vida
+sistema educacional são medidas importantes para promover o desenvolvimento de uma educação equilibrada, a equidade educacional e o aumento da qualidade da educação. É um
+motor indispensável e apoio à modernização educacional.
+
+Faculdades e universidades são lugares onde a ciência e a tecnologia são a força produtiva número um, o talento é o recurso número um e a inovação é o
+número um. Eles têm características distintas quando se trata do estudo e aplicação de tecnologias-chave, como a teoria básica da inteligência artificial,
+compreensão da linguagem natural, visão computacional, multimídia, robótica, etc., bem como uma base sólida no treinamento de pessoas e no desenvolvimento de
+disciplinas acadêmicas. Diante da oportunidade apresentada pelo desenvolvimento de IA de nova geração, faculdades e universidades precisam aprimorar ainda mais seus pontos fortes
+pesquisa, desenvolvimento de novas disciplinas e treinamento. Eles devem intensificar sua pesquisa básica aplicada (应用 基本 研究) e aumentar os avanços nas principais
+tecnologias de uso geral. Eles devem promover continuamente a profunda integração da inteligência artificial com a economia real, a fim de promover novos propulsores de
+desenvolvimento Econômico. Eles devem promover continuamente a profunda integração da inteligência artificial com as demandas das pessoas, a fim de proporcionar novas
+maneiras de melhorar seus meios de subsistência. Eles devem promover continuamente a profunda integração da inteligência artificial com a educação, a fim de fornecer novas maneiras de
+revolucionar a educação. Ao fazer isso, eles liderarão a China em inovação científica e tecnológica, treinamento e demonstração de aplicações técnicas em
+o campo da inteligência artificial, aumentando a força geral da IA ​​na China.
+
+2. Ideologia orientadora
+
+Para que a China possa obter uma vantagem pioneira no desenvolvimento da inteligência artificial e para fornecer suporte estratégico para a construção da China
+em uma superpotência educacional, uma superpotência de C&T e uma sociedade inteligente, o Ministério da Educação implementará totalmente o espírito do 19º Congresso Nacional
+do Partido Comunista da China, e será guiado pelo pensamento de Xi Jinping sobre o socialismo com características chinesas para uma nova era. O Ministério da Educação irá
+implementar uma nova filosofia de desenvolvimento focada em inovação, coordenação, sustentabilidade ambiental, abertura e compartilhamento, bem como políticas estratégicas que
+incluem o rejuvenescimento da China, adotando a educação científica, fortalecendo a China com pessoas talentosas, desenvolvimento orientado à inovação e civis civis
+fusão (军民 融合). Isso acelerará a criação de um sistema de desenvolvimento de talentos de nova geração para o campo da IA ​​e uma inovação científica e tecnológica
+sistema. Melhorará de maneira abrangente a capacidade das universidades de treinar pessoas, conduzir pesquisas científicas, fornecer serviços sociais, além de transmitir e inovar
+cultura, intercâmbio e cooperação no campo da IA ​​em escala internacional. Promoverá o desenvolvimento abrangente da inteligência artificial como um acadêmico
+disciplina, programas de treinamento, inovação teórica, avanços tecnológicos e demonstração das aplicações do campo.
+
+3. Princípios básicos
+
+Insista na inovação assumindo a liderança. Coloque a inovação no centro do desenvolvimento da IA ​​em faculdades e universidades. Entenda as tendências globais de desenvolvimento de IA. Mais longe
+melhorar o sistema de inovação científica e tecnológica para IA em faculdades e universidades. Tornar faculdades e universidades epicentros de pesquisas científicas e
+inovação tecnológica na IA.Insista em fundir ciência e educação. Implementar plenamente uma missão fundamental que promova o caráter e a virtude cívica. Firmemente
+controlar a questão central de melhorar a capacidade de treinar pessoas; promover treinamento, desenvolvimento da disciplina acadêmica e integração de pesquisas científicas.
+Perceba o importante papel que a educação científica desempenha no desenvolvimento essencial (内涵 式 发展) do ensino superior e no treinamento de talentos de alta qualidade.
+Aumente continuamente a inovação local da China, cultivando talentos inovadores e criando uma vantagem por meio da inovação e desenvolvimento sustentados.
+
+Considere as necessidades daqueles que estão sendo atendidos. Intensificar a reforma estrutural e institucional. Fortalecer a cooperação entre faculdades e universidades e instituições locais
+governos, empresas e institutos de pesquisa. Acelere a transferência e aplicação de realizações científicas e tecnológicas no campo da IA ​​para
+indústrias e setores. Melhorar a capacidade das faculdades e universidades de atender às principais estratégias nacionais, inovação e desenvolvimento de vários setores,
+transformação e modernização da economia e garantir que todos possam ganhar a vida.
+
+Apoie a fusão civil-militar. Entenda o quanto as esferas militar e civil devem ser integradas, as regras que governam essa integração e seus fatores principais.
+Aproveite ao máximo a superioridade das faculdades e universidades em pesquisa e treinamento básicos e os recursos da integração disciplinar. Combine ativamente a China
+sistemas de integração militar-civil. Promover continuamente a transferência bidirecional e a aplicação transformadora da tecnologia militar e civil.
+
+4. Principais objetivos
+Até 2020, conclua basicamente o sistema de inovação científica e tecnológica para o desenvolvimento de inteligência artificial de nova geração em faculdades e universidades
+e otimizar a composição do sistema de disciplina acadêmica. As instituições de ensino superior farão novos avanços nas teorias básicas dos novos
+inteligência artificial de geração e pesquisa técnica chave, além de melhorar ainda mais sua superioridade em treinamento e pesquisa científica e promover
+a ampla aplicação da tecnologia de IA.
+
+Até 2025, melhore significativamente a capacidade de inovação científica e tecnológica e a qualidade do treinamento no campo da inteligência artificial de nova geração. Faça um número
+das realizações originais de importância internacional. Demonstre um nível de classe mundial em algumas pesquisas teóricas, tecnologia inovadora e aplicação.
+Apoiar efetivamente a modernização das indústrias nacionais, a transformação da economia e a construção de uma sociedade inteligente.
+
+Até 2030, faculdades e universidades se tornarão a principal força por trás da construção dos principais centros de inovação de IA do mundo e liderarão o desenvolvimento de um novo
+geração de talentos de IA para fornecer à China o suporte científico e tecnológico e o talento garantido para colocá-lo na vanguarda dos processos de inovação
+países.
+
+II Tarefas chave
+
+1. Melhorar o sistema de inovação científica e tecnológica para IA em faculdades e universidades
+
+A. Reforçar a pesquisa teórica básica sobre a inteligência artificial de nova geração. Concentre-se nas principais questões científicas de ponta relacionadas à inteligência artificial,
+promover a integração interdisciplinar completa de campos como IA, ciências do cérebro, ciências cognitivas e psicologia. Foco na pesquisa básica e teórica em
+as áreas de inteligência de big data, detecção e computação entre mídias (跨媒体 感知 计算), inteligência aprimorada híbrida (混合 增强 智能), inteligência de enxame, autônoma
+controle de coordenação e tomada de decisão otimizada, aprendizado de máquina de alto nível, computação inteligente inspirada no cérebro e computação quântica inteligente, a fim de fornecer uma
+base teórica para uma mudança de paradigma na IA e estabelecer uma base sólida para a inovação teórica importante para a IA de nova geração.
+
+B. Promover a inovação das principais tecnologias para a inteligência artificial de nova geração.
+
+Concentrando-se nos principais algoritmos, hardware, sistemas etc. da inteligência artificial de nova geração, acelere a pesquisa de tecnologias-chave, como aprendizado de máquina,
+visão computacional, computação do conhecimento (知识 计算), raciocínio profundo (深度 推理), inteligência de enxame, inteligência aprimorada híbrida, sistemas não tripulados, realidade virtual,
+compreensão da linguagem natural e chips inteligentes. Faça grandes avanços em áreas como inteligência inspirada no cérebro, inteligência autônoma, inteligência híbrida,
+e inteligência de enxame para formar um sistema técnico para a inteligência artificial de nova geração. Com base nos principais algoritmos, dados e hardware, aprimore a mídia cruzada
+(跨媒体) capacidade de raciocínio, capacidade analítica de inteligência de enxame, aumento da capacidade de inteligência híbrida e capacidade de executar tarefas autônomas
+movimentos com foco na interação humano-computador. Crie recursos padronizados, de código aberto e maduros de suporte a serviços de inteligência artificial para
+colaboração entre algoritmos e chips, hardware e software, terminais e nuvem.
+
+C. Acelere a criação de bases científicas e tecnológicas de inovação em IA. Focalizando o que é necessário para as teorias básicas no campo da IA, principais usos gerais
+tecnologia e plataformas de apoio público, aceleram a construção de bases de inovação, como os centros científicos de ponta do Ministério da Educação (前沿 科学 中心),
+Laboratórios-chave do Ministério da Educação e centros de pesquisa em engenharia do Ministério da Educação. Orientado por grandes necessidades, como de ponta, interdisciplinar
+inovações e desenvolvimento nacional e regional, promovam a interação e colaboração entre inovadores, como faculdades e universidades,
+institutos de pesquisa e empresas. Construa centros de inovação colaborativos. Acelerar a incubação de bases de inovação em nível nacional, como
+laboratórios, principais laboratórios nacionais, centros nacionais de inovação tecnológica, centros nacionais de pesquisa em engenharia e as principais ciências e tecnologias nacionais
+a infraestrutura. Incentive faculdades e universidades a criar novos tipos de organizações de pesquisa científica e a realizar pesquisas interdisciplinares.
+
+D. Acelerar a formação de equipes de talentos de classe mundial e equipes de inovação de alto nível. Apoiar faculdades e universidades que assumem importantes ciências nacionais e
+tarefas de tecnologia. Treine e reúna várias das principais mentes científicas e tecnológicas estratégicas com reputação internacional. Faculdades de apoio e
+universidades que formam equipes de inovação interdisciplinares e multidisciplinares e grupos de pesquisa em inteligência artificial, ciências do cérebro e ciências cognitivas.
+Apoiar o uso dos mil talentos da China, dos dez mil talentos e do programa de bolsistas de Chang Jiang de faculdades e universidades para vigorosamente
+desenvolver e trazer excelentes talentos jovens importantes. Firme o suporte a talentos de alta qualidade e equipes de inovação extraordinárias que conduzem pesquisas fundamentais no
+interesse público.
+
+E. Reforçar a formação de think tanks de ciência e tecnologia de alto nível. Incentivar e apoiar faculdades e universidades liderando ou participando do
+formação de bases estratégicas de pesquisa em IA que conduzam pesquisas estratégicas e políticas sobre o desenvolvimento da IA ​​para questões importantes, carregadas e prospectivas
+como educação, economia, emprego, lei e segurança nacional. Forme uma série de novos think tanks de ciência e tecnologia de alto nível.
+
+F. Aumentar os esforços para promover o intercâmbio acadêmico e a colaboração em nível internacional. Apoiar a criação de vários centros de inovação do "Programa 111"
+e laboratórios internacionais cooperativos no campo da IA. Incubar o Plano Internacional de Mega Ciência (国际 大 科学 计划) e o Projeto Mega Ciência (大 科学 工程).
+Convide acadêmicos internacionais famosos com mais frequência para participar do desenvolvimento da disciplina acadêmica e da pesquisa científica. Apoiar a organização de alto nível
+conferências acadêmicas internacionais de IA. Incentive os estudiosos chineses a assumir posições importantes em organizações acadêmicas internacionais relevantes para aumentar
+influência internacional. Apoiar a participação ativa de estudiosos chineses na elaboração de regulamentos internacionais de IA e propor “iniciativas chinesas” e
+“Padrões chineses” no devido tempo.
+ 
+Inovação de ponta
+
+1. Reforçar a pesquisa básica e teórica sobre IA. Faça progressos significativos na aprendizagem autônoma, cognição intuitiva (直觉 认知) e raciocínio integrado, quebre
+através de questões desafiadoras com abordagens de inteligência artificial, como derivação lógica, aprendendo com o conhecimento e aprendendo com a experiência. Crie um novo
+modelos e métodos teóricos de IA altamente interpretativos, com dependência flexível de dados e fortes recursos de transferência de generalização, possibilitando
+passar de dados para conhecimento e conhecimento para tomada de decisão.
+
+2. Aumentar a pesquisa sobre as principais tecnologias de IA. Focalizando os principais avanços tecnológicos, como computação do conhecimento, análise e raciocínio entre mídias, enxame
+inteligência, inteligência aprimorada híbrida e sistemas não tripulados automatizados. Promova a coordenação de chips, software e hardware específicos para IA. Criar artificial
+recursos de serviços de inteligência para colaboração terminal-nuvem.
+
+3. Promova a criação de um sistema de tecnologia de IA. Com base nos avanços nas principais tecnologias, como inteligência inspirada no cérebro, inteligência autônoma,
+inteligência híbrida e inteligência de enxame, foco na melhoria dos recursos de raciocínio entre mídias, recursos de análise de inteligência de enxame, aprimoramento híbrido
+recursos de inteligência, recursos autônomos de execução de corpos móveis (自主 运动 体 执行) e recursos de interação homem-computador. Promova algoritmos como o
+núcleo e usar dados e hardware como base para construir um sistema de tecnologia de IA estável e maduro.
+
+4. Aumentar a inovação colaborativa e a pesquisa estratégica em IA. Promover a colaboração e a inovação nas áreas da teoria básica da IA, segurança multi-espaço
+(多元 空间 安全), serviços de conhecimento, financiamento na Internet, prevenção e redução de desastres, gerenciamento de iguarias sociais (social 精细 管理), proteção à saúde e doenças
+prevenção e alívio científico da pobreza. Estabelecer um número de think tanks de ciência e tecnologia de alto nível para a IA e apoiar os principais
+pesquisa científica e tecnológica relacionada a políticas para fornecer apoio teórico e orientação estratégica ao desenvolvimento social e econômico e responder a
+preocupações sociais importantes.
+
+2. Melhorar o sistema de treinamento no campo da IA
+
+G. Melhorar a organização do assunto. Aumentar a integração interdisciplinar com os campos de estudo relevantes, como computação, controle, quantum, neuro e
+ciências cognitivas, bem como matemática, psicologia, economia, direito e sociologia. Apoiar a criação de campos de estudo orientados para a IA em ciência da computação e
+áreas técnicas de faculdades e universidades. Promover a criação de disciplinas de primeiro nível (一级 学科) no campo da IA. Melhorar o desenvolvimento em áreas relacionadas a
+teoria básica da IA, visão computacional e reconhecimento de padrões, análise de dados e aprendizado de máquina, processamento de linguagem natural, engenharia do conhecimento e inteligência
+sistemas. Apoiar faculdades e universidades na construção de universidades e currículos de classe mundial (“双 一流”). Aumentar o investimento em assuntos relacionados à IA
+e promover o desenvolvimento de campos de estudo interdisciplinares relevantes.
+
+H. Crie majores adicionais. Acelerar a implementação do “Plano de Educação e Treinamento de Engenheiros em Destaque (versão 2.0)” e promover a criação de
+os melhores cursos, os melhores cursos de graduação e os melhores alunos. De acordo com a teoria e a tecnologia da IA, a IA tem as características de universalidade,
+portabilidade e permeabilidade. Incorpore ativamente os interesses acadêmicos dos alunos e as necessidades da sociedade. Desenvolver ativamente a pesquisa e prática de
+"Nova engenharia". Preste mais atenção à integração cruzada da educação profissional para IA com ciência de computação e controle, matemática, estatística,
+física, biologia, psicologia, sociologia, direito e outras disciplinas. Explore um novo modelo de treinamento de "AI + X". Incentivar a adaptação e integração de
+matemática, tecnologia de big data e outras disciplinas em ciência e tecnologia inteligente para os principais cursos de ciência da computação. Coloque os principais relacionados à IA de acordo com
+demanda industrial nacional e regional.
+
+I. Crie mais materiais de ensino. Acelere a transferência de conquistas e recursos científicos e tecnológicos da IA ​​para a educação e o ensino. Promover importantes
+Materiais de ensino orientados à IA e a criação de currículos abertos on-line, especialmente nas principais disciplinas de fundações da IA, aprendizado de máquina, redes neurais,
+reconhecimento de padrões, visão computacional, engenharia do conhecimento e processamento de linguagem natural. Promover a elaboração de vários cursos de graduação e de classe mundial
+materiais de ensino para graduados e cursos on-line abertos de alta qualidade em nível nacional. Adicione inteligência artificial aos materiais básicos do curso universitário para computador
+Ciência.
+
+J. Aumente a intensidade do treinamento. Melhore o mecanismo de educação colaborativa de IA de várias entidades. Aprofundar a colaboração educacional entre a indústria e a universidade. Expandir e
+implementar projetos colaborativos de educação entre a indústria e a universidade no campo da IA. Utilize as mais recentes conquistas no desenvolvimento industrial e tecnológico
+promover a reforma do treinamento. Apoie a criação de uma "nova disciplina de engenharia" no campo da IA ​​para aliar indústria, educação e pesquisa. Crie um número de
+plataformas regionais compartilhadas de treinamento e prática que combinam educação, treinamento e pesquisa. Estabelecer ativamente posições temporárias nas quais os professores da IA
+o campo pode ganhar experiência e plataformas de treinamento colaborativo indústria-universidade-instituição de pesquisa para habilidades de engenharia. Promover mecanismos de comunicação bidirecional
+intercâmbio entre professores universitários e universitários e profissionais da indústria. Incentivar faculdades e universidades qualificadas a criar escolas de inteligência artificial,
+institutos de pesquisa e centros de pesquisa interdisciplinares para promover a inovação de um modelo de educação colaborativa que integre ciência, indústria e
+treinamento em tecnologia e multicanais para pessoas inovadoras e empreendedoras no campo da IA. Ajude faculdades e universidades usando suporte incremental (增量 支持)
+e ajustes de estoque (存量 调整). Aumente constantemente a escala de inscrição para os campos relevantes de estudo e determine uma estrutura hierárquica eqüitativa. Aumentar
+a intensidade do treinamento de IA.
+
+K. Aumentar a acessibilidade educacional. Incentivar e apoiar faculdades e universidades que disponibilizem recursos relevantes de ensino e pesquisa fora de suas
+instituições. Crie uma plataforma de serviço público para popularizar a IA entre os jovens e o público em geral e trabalhe ativamente para tornar a ciência mais acessível.
+Apoiar a participação de professores de faculdades e universidades na popularização da educação em IA no ensino fundamental e médio e na realização de pesquisas relacionadas.
+Crie cursos de treinamento pré-serviço e em serviço para professores sobre conhecimentos e habilidades de IA. Treine professores sobre como implementar uma educação inteligente.
+Crie cursos de educação continuada de IA sem diploma em faculdades e universidades.
+
+L. Apoiar a inovação e o empreendedorismo. Incentivar os parques científicos e tecnológicos das universidades chinesas e as bases de inovação e empreendimentos para desenvolver
+projetos de empreendedorismo. Identifique vários parques de demonstração de inicialização e inovação em faculdades e universidades. Apoiar o desenvolvimento da inovação
+e atividades de empreendedorismo no campo da IA ​​por professores e estudantes de faculdades e universidades. Crie competições focadas em IA como parte do China College
+Concurso de inovação e empreendedorismo "Internet +" dos alunos e promover ativamente o desenvolvimento de ciência e tecnologia de IA de vários níveis e tipos múltiplos
+competições como o Concurso de Inovação Científica e Tecnológica para Adolescentes da China e o concurso nacional de ciências extracurriculares da “Copa do Desafio” e
+Competição de tecnologia.
+
+M. Aumentar o intercâmbio e a cooperação internacional. Apoiar estudantes de intercâmbio que vierem para a China para estudar na área de IA através do governo chinês "Rota da Seda"
+Programa de Bolsas de Estudo para treinar líderes da indústria e pessoas altamente talentosas dos países do Cinturão e Rota. Incentivar e apoiar os estudantes chineses que estão no exterior para estudar
+em países que se destacam em IA. Aumente a quantidade de apoio para estudantes de intercâmbio no campo da IA ​​e use excelentes recursos de educação internacional em vários
+maneiras através de uma variedade de canais. Confie no Capítulo Nacional da Rede de Educação para o Empreendedorismo da UNESCO na China para aumentar e promover o intercâmbio internacional
+e cooperação relacionada à inovação e empreendedorismo da IA.
+
+Treinamento
+
+1. Acelerar o desenvolvimento da IA ​​como uma disciplina acadêmica. Apoiar a criação de disciplinas orientadas para IA em ciência da computação e outras disciplinas técnicas
+em faculdades e universidades. Discuta e confirme minuciosamente o que está incluído no campo de estudo da IA, melhore o sistema de disciplina da IA ​​e promova o desenvolvimento
+de uma disciplina de primeiro nível no campo da IA.
+
+2. Fortalecer as especialidades de IA especializadas. Promover a criação de uma "nova disciplina de engenharia" e criar uma nova maneira de educar com um curso combinado de "IA + X"; desenvolve
+100 desses cursos especiais combinados de "IA + X" até 2020. Promova a criação de importantes materiais de ensino e abra cursos on-line e publique 50 cursos de classe mundial
+livros didáticos de graduação e pós-graduação e crie 50 cursos abertos de IA on-line de qualidade em nível nacional até 2020. Aumente o conteúdo da IA ​​em áreas relacionadas a big data e
+gerenciamento de informações em escolas profissionais e treinar pessoas em habilidades técnicas aplicáveis ​​no campo da IA.
+
+3. Fortalecer o cultivo de talentos de IA. Aumentar a integração entre as bases de pesquisa de treinamento e inovação e melhorar a educação colaborativa de várias entidades
+mecanismo no campo da IA ​​para treinar o talento da IA ​​em vários níveis, de várias maneiras. Abrir 50 escolas, institutos de pesquisa ou instituições interdisciplinares de IA
+até 2020 e ajude faculdades e universidades usando suporte incremental e ajustes de estoque. Aumente a intensidade do treinamento no campo da IA.
+
+4. Crie um sistema educacional de IA em vários níveis. Introduzir a IA no ensino fundamental e médio. Trabalhe continuamente para otimizar e melhorar os serviços especializados
+e formar um sistema de ensino superior que combine educação especializada em IA, treinamento vocacional e ensino fundamental de nível universitário. Incentivar e
+apoiar faculdades e universidades disponibilizando recursos relevantes de ensino e pesquisa fora de suas instituições. Crie uma plataforma de serviço público para
+popularizar a IA entre os jovens e o público em geral e trabalhar ativamente para tornar a ciência mais acessível.
+
+3. Promover a transformação das realizações de C&T em produtos comerciais (科技 成果 AI) por faculdades e universidades em IA e demonstrar suas aplicações N.
+Expanda a aplicação da IA ​​nas principais áreas. Implementar iniciativas "AI + X". Apoiar a transferência de tecnologia e a transformação das realizações de C&T em comerciais
+produtos de faculdades e universidades a educação inteligente, fabricação inteligente, atendimento médico inteligente, cidades inteligentes, agricultura inteligente, finanças inteligentes,
+judiciário inteligente e defesa nacional e expandir a aplicação dessas tecnologias. Aumente a colaboração com os setores relevantes. Promover a formação de
+novas indústrias e novas maneiras de fazer negócios em educação, cultura, medicina, transporte, manufatura, agricultura e silvicultura, finanças, segurança,
+e setores de defesa nacional. Incubar uma série de empresas líderes em tecnologia de IA. Promover a formação de vários clusters da indústria e áreas de demonstração.
+
+O. Promover o desenvolvimento da educação inteligente. Promover reformas educacionais e de ensino. Avance para um modelo inteligente de campus com base em campi digitais. Crie um
+ambiente de ensino com tecnologia. Explore novos modelos de ensino baseados em IA. Reconstrua como os professores ensinam, usando a IA para monitorar o processo de ensino, analisar
+alunos e avaliar os níveis de realização. Configure avaliações inteligentes abrangentes, multidimensionais e baseadas em big data. Avalie com precisão o professor e o aluno
+desempenho. Instituir currículos individualizados com base em aptidões. Promover a reforma da administração acadêmica. Apoiar o uso da tecnologia de IA pelas escolas para modificar suas
+estruturas organizacionais e sistemas de gestão e otimizar como eles operam e atendem seus alunos. Implementar gerenciamento de delicadeza e serviço personalizado em
+campi para atualizar completamente os níveis administrativos das escolas. Promova o aprendizado on-line ao longo da vida, incentive o desenvolvimento de inteligência inteligente centrada no aluno
+plataformas de aprendizado, forneça uma rica variedade de recursos personalizados de aprendizado, inove como os serviços são prestados e adapte o aprendizado ao longo da vida.
+
+P. Promover uma forte fusão militar-civil (军民 深度 融合). Concentre-se na tecnologia da informação e faça da tecnologia de IA o ponto de partida de avanços. Vire para
+ acesso eficiente a informações, entendimento semântico e alavancagem de informações, usando sistemas híbridos não-tripulados e homem-máquina como modelo. Construir junta
+bases de inovação tecnológica militar-civil da IA. Fomentar mais projetos conjuntos de pesquisa em inovação militar-civil da IA. Promover inovações tecnológicas relevantes em
+faculdades e universidades para impulsionar a superioridade militar e a superioridade da informação, de modo que as inovações sejam “aprimoradas para uso militar e rebaixadas para
+uso civil ”(“ 升级 为 军 ， 退 级 为民 ”).
+
+Q. Incentivar a formação de alianças de inovação e o compartilhamento aberto de recursos. Incentivar e apoiar faculdades e universidades que se juntam a empresas,
+grupos industriais, organizações de pesquisa científica etc. para formar alianças de inovação tecnológica da indústria de IA. Participar ativamente na implementação de grandes
+projetos científicos com IA de nova geração e criação de um conjunto nacional de padrões de IA formulados ao lado de internacionais. Apoiar faculdades e universidades
+participando da criação de plataformas de IA de código aberto e de código aberto, incentive-os a considerar as tecnologias adicionadas à plataforma como
+realizações em pesquisas científicas, reconhecê-las como tais e usá-las como fator para avaliações e prêmios.
+
+R. Apoiar a inovação e o desenvolvimento local e regional. De acordo com as especificidades de desenvolvimento da indústria regional e da economia, enfocando as principais
+implantação nacional, fortalecer a cooperação regional e local com a região de Pequim-Tianjin-Hebei, a nova área de Xiongan, a Grande Guangdong-Hong Kong-Macau
+Bay Area, e nordeste, central e oeste da China. Apoiar a construção conjunta de várias plataformas de inovação e novas organizações de P&D, como
+centros de inovação colaborativa e laboratórios cooperativos, por faculdades e universidades, governo e empresas. Promova a IA original e fundamental
+pesquisa realizada por faculdades e universidades, vinculada às necessidades da região e da indústria. Acelere a transformação e modernização regionais, bem como
+inovação e desenvolvimento regional.
+
+Transformando conquistas de C&T em produtos comerciais e demonstrando sua aplicação
+
+1. Demonstrar a aplicação da IA ​​na educação inteligente. Acelere e promova a profunda integração e o desenvolvimento inovador da IA ​​na educação.
+Estratégias, padrões e especificações de pesquisa para o desenvolvimento de educação inteligente. Explore canais e métodos para integrar a tecnologia de IA ao
+ambiente educacional, modelos de ensino, currículos, métodos de ensino, administração acadêmica, avaliação educacional e pesquisa educacional. Desenvolver um
+plataforma de educação inteligente e baseada em nuvem e incentive novas formas de ensino que são suportadas pela IA para modernizar a educação desde o início.
+
+2. Demonstrando a aplicação da IA ​​na fabricação inteligente. Inteligente todo o ciclo de vida da cadeia de suprimentos de fabricação inteligente, desde design, produção,
+testes e suporte ao gerenciamento e serviço. Pesquise e desenvolva novos tipos de sensores inteligentes, resolva problemas difíceis de equipamentos de controle inteligente e implante
+a nuvem de fabricação inteligente. Crie um novo ecossistema que exista na Internet e que seja impulsionado por dados e conhecimento, seja um serviço compartilhado, seja auto-informado,
+e se dedica à inovação em massa. Promova a profunda integração da IA ​​de nova geração na fabricação inteligente.
+
+3. Demonstrar a aplicação da IA ​​em cuidados médicos inteligentes. Segmente os principais problemas de saúde, como a população de envelhecimento, doenças infecciosas e crônicas, nascimento
+defeitos e infertilidade. Romper com gargalos na análise e compreensão de fluxos de grandes dados multimodais de saúde. Promover a integração eficiente de
+tecnologias como raciocínio integrado com informações incompletas, diagnóstico auxiliado por computador e gráficos de conhecimento médico no setor de saúde. Advogado
+para a integração de big data da área médica com big data de outros campos. Configure sistemas inteligentes de assistência médica assistidos por IA e baseados em nuvem
+plataformas de serviço inovadoras com recursos de identificação, exclusão, filtragem e raciocínio. Melhore a facilidade de manutenção do atendimento médico inteligente.
+
+4. Demonstrar a aplicação da IA ​​em cidades inteligentes. Com base na tecnologia de detecção inteligente onipresente e convergente, analise e compreenda completamente
+elementos ecológicos e sistemas urbanos complexos. Com base nas principais tecnologias, como raciocínio integrado, mecanismos de computação do conhecimento e inteligência de enxame, crie um
+sistema de aplicação inteligente urbano modelo. Promover ainda mais a tomada de decisões de alto nível para o gerenciamento de operações da cidade. Promover a criação de um big data urbano
+plataforma. Construa um sistema para apoiar o gerenciamento inteligente de iguarias urbanas, a descoberta de conhecimento e a tomada de decisão assistida. Crie produtos inteligentes e
+sistemas para o meio ambiente, governo e para facilitar a vida das pessoas.
+
+5. Demonstrar a aplicação da IA ​​na agricultura inteligente. Promover a profunda integração de tecnologias da informação como internet, big data, computação em nuvem,
+e a internet das coisas com biotecnologia moderna, saúde e nutrição e tecnologia de dispositivos inteligentes. Faça avanços nas principais tecnologias, como animais de fazenda
+percepção de informações de plantas e plantas, análise e identificação inteligente, análise de mineração de dados entre mídias na agricultura, interação inteligente híbrido homem-computador
+e realidade virtual na agricultura, tomada de decisões sobre inteligência de enxame na agricultura e coordenação humano-computador-animal (物 物). Trabalhem juntos para construir
+futuros modelos agrícolas e bases de demonstração amigáveis ​​ao meio ambiente, eficientes, inteligentes e multifuncionais.
+
+6. Demonstrar a aplicação da IA ​​em finanças inteligentes. Focar nos novos problemas e requisitos que surgiram durante a implementação
+da estratégia “Internet +” no setor financeiro, com base em informações abrangentes em big data financeiro, cria um modelo de tomada de decisão financeira em nível macro
+de acordo com as condições na China. Romper as restrições entre as regras de desenvolvimento inerentes ao financiamento e o ambiente social externo. Use core
+tecnologias inteligentes, como aprendizado profundo para mineração e análise com base em dados financeiros de bancos, valores mobiliários e internet. Criar complexos recursos financeiros
+modelos de instrução por setor e por setor. Use modelos como gráficos de conhecimento e computação de raciocínio (推理 计算) para evitar com precisão o risco financeiro,
+avalie o crédito e acompanhe as tendências com base nos atributos de comportamento espaço-temporal e individual do big data financeiro.
+
+7. Demonstrar a aplicação da IA ​​no judiciário inteligente. Promover a combinação de disciplinas de IA com disciplinas relevantes nas faculdades de direito. Faça pleno uso de
+tecnologias como análise de texto, reconhecimento de fala, aprendizado de máquina e gráficos de conhecimento. Desenvolver sistemas jurídicos e promotores inteligentes baseados em
+dados legais históricos em larga escala, dados da Internet e outros dados relevantes. Pesquise e desenvolva ferramentas inteligentes e assistenciais para a descoberta automática de pistas para casos,
+condenação e sentença inteligentes, geração automática de documentos, consultoria jurídica automatizada e julgamentos inteligentes. Demonstrar a aplicação dessas tecnologias em
+escritórios dos tribunais e do Ministério Público, a fim de melhorar a eficiência desses casos, bem como a padronização e precisão dos julgamentos.
+
+III Medidas políticas
+
+1. Melhorar a organização e implementação. O Ministério da Educação está estabelecendo um Comitê de Especialistas em Estratégia de Inovação em C&T da AI
+(人工智能 科技 创新 战略 专家 委员会) para dirigir e coordenar a implementação deste plano. Todos os departamentos relevantes pesquisarão ativamente a implementação concreta
+medidas para garantir que todas as tarefas sejam cumpridas. As autoridades educacionais de cada província (ou região autônoma ou município diretamente sob o
+Governo) e instituições de ensino superior, com o objetivo de atender às principais necessidades do país, devem coordenar recursos, aumentar a exploração, usar suas
+estoques de forma incremental e eficiente (用 好 增量 、 盘活 存量), apoiam o desenvolvimento de assuntos interdisciplinares no campo da IA, treinam pessoas talentosas, fazem
+inovações científicas e transformar as conquistas de C&T em produtos e aplicações comerciais.
+
+2. Melhorar a alocação de recursos. Faça aumentos apropriados nas metas de matrícula de estudantes de pós-graduação para atender às principais necessidades estratégicas da China. Investigue o
+estabelecimento de plataformas de inovação em nível nacional, provincial e ministerial para apoiar as principais missões científicas nacionais realizadas por faculdades e universidades
+que servem grandes implantações estratégicas nacionais. Melhore o treinamento para pessoal de alto nível e melhore de maneira abrangente a qualidade do treinamento para estudantes de pós-graduação,
+especialmente candidatos a doutorado, a fim de fornecer o talento necessário para inovar e desenvolver a inteligência artificial. Aumentar a inclinação de pendentes
+talento em grandes projetos de talentos chineses, como o Programa de Bolsistas Chang Jiang em direção aos campos de IA.
+
+3. Aumente a orientação e a incubação. Através das despesas do Ministério da Educação em ciência, concentre-se no design de nível superior e na incubação de grandes inovações
+plataformas, a criação de grandes projetos de ciência e tecnologia e pesquisa sobre as principais estratégias e políticas de ciência e tecnologia. Acelere a criação de
+várias plataformas de inovação do Ministério da Educação. Aumentar a incubação de grandes projetos nacionais de ciência e tecnologia e de ciência e nível nacional
+plataformas de inovação tecnológica. Incentivar as faculdades e universidades a realizar pesquisas interdisciplinares exploratórias, bem como fundacionais e prospectivas
+pesquisa para chegar a resultados líderes e originais e grandes avanços.
+
+4. Aumentar propaganda e promoção. O Ministério da Educação aumentará a propaganda e a promoção de grandes realizações científicas e tecnológicas para
+faculdades e universidades usando métodos como a Feira de Realizações Científicas e Tecnológicas da China University (中国 高校 科技 成果 交易会). A educação
+autoridades de cada província (ou região autônoma ou município diretamente sob o governo central), bem como universidades que operam sob o Ministério da
+A educação deve, sem demora, resumir e relatar seus treinamentos em nível de faculdade ou universidade, como eles estão trabalhando para implementar grandes projetos nacionais,
+avanços tecnológicos teóricos e grandes instâncias da transformação das realizações de C&T em produtos comerciais em suas instituições ou em qualquer lugar
+eles estão localizados.
